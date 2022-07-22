@@ -5,8 +5,8 @@
 👑 Builder on *DreamCode*
 - https://discord.gg/dreamcode
 
-👑 Developer on VestMC
+👑 Developer on *VestMC*
 - https://discord.gg/vestmc
 
-👑 Friend on vnCode
+👑 Friend on *vnCode*
 - https://dc.vncode.pl
