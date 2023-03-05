@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Neherowo
 
 
-👑 Developer on *VestMC*
-- https://discord.gg/vestmc
+👑 Developer on *FreePlugins*
+- https://discord.gg/freeplugins
 
-👑 Friend on *vnCode*
-- https://dc.vncode.pl
+👑 Developer on *ByteMC.pl*
+- https://dc.bytemc.pl
